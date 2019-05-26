@@ -9,6 +9,6 @@ Coursework on JS and React
 
     `cd js-and-react`
 
-3. Drop file into web root of LAMPP/WAMP/XAMPP
+3. Drop files into a new web root of LAMPP/WAMP/XAMPP
 
-4. Nav to web root in browser
+4. Navigate to web root in browser
